@@ -10,19 +10,12 @@ redirect_from:
 
 ## About me
 
-I am a PhD candidate in Mathematics at the Université de Toulouse (EDMITT), under a CIFRE agreement funded by EDF R&D. I began my doctoral studies in December 2024. My thesis focuses on the analysis of AI models through decomposition techniques for uncertainty quantification, sensitivity analysis and explainability.
+Since December 2024, I am a PhD student in Mathematics at the [Université de Toulouse](https://www.univ-tlse3.fr/), in collaboration with [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial). I am under the supervision of [Fabrice Gamboa](https://www.math.univ-toulouse.fr/~gamboa/) and [Jean-Michel Loubes](https://perso.math.univ-toulouse.fr/loubes/) from Université de Toulouse and [Nicolas Bousquet](https://perso.lpsm.paris/~bousquet/) and [Joseph Muré](https://josephmure.wordpress.com/) from [EDF R&D](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial).
 
-I am supervised by [Fabrice Gamboa](https://www.math.univ-toulouse.fr/~gamboa/) and [Jean-Michel Loubes](https://perso.math.univ-toulouse.fr/loubes/), and my industrial advisors at EDF are [Nicolas Bousquet](https://perso.lpsm.paris/~bousquet/) and [Joseph Muré](https://josephmure.wordpress.com/).
+My thesis focuses on the analysis of AI models through decomposition techniques.
 
-Before starting my PhD, I completed a 6-month research internship at EDF R&D, where I worked on related topics in explainable AI and sensitivity analysis.
+Before starting my PhD, I completed a 6-month research internship at EDF R&D, where I worked on the generalization of Hoeffding Decomposition for correlated random variables.
 
 ## Research Interests
 
-My research lies at the intersection of statistics, probability, machine learning and linear algebra, with a particular focus on:
-
-- Hoeffding decomposition
-- Uncertainty quantification
-- Sensitivity analysis
-- Explainable AI (XAI)
-
-I aim to develop mathematical and algorithmic tools to better understand, interpret and control the behavior of complex AI systems, especially in the context of generative models and time series forecasting.
+My research lies at the intersection of statistics, probability, machine learning and linear algebra, with a particular focus on uncertainty quantification, sensitivity analysis and explainability of machine learning models.
