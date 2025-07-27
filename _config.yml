@@ -244,6 +244,7 @@ defaults:
       comments: true
       share: true
       related: true
+      custom_css: "assets/css/custom.css"
   
   # _pages
   - scope:
@@ -252,6 +253,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      custom_css: "assets/css/custom.css"
       
   # _teaching
   - scope:
@@ -262,6 +264,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      custom_css: "assets/css/custom.css"
       
   # _publications
   - scope:
@@ -282,6 +285,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      custom_css: "assets/css/custom.css"
       
   # _talks
   - scope:
@@ -291,7 +295,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
+      custom_css: "assets/css/custom.css"
 
 
 # Sass/SCSS
