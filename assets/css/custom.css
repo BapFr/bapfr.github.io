@@ -1,0 +1,32 @@
+/* Fond noir et texte clair */
+body {
+  background-color: #000 !important;
+  color: #f1f1f1 !important;
+}
+
+/* Lien par défaut */
+a {
+  color: #4da6ff;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: #111 !important;
+  color: #fff !important;
+}
+
+.sidebar a {
+  color: #4da6ff;
+}
+
+.sidebar .author__avatar,
+.sidebar .author__name,
+.sidebar .author__bio {
+  color: #fff !important;
+}
+
+/* Zones principales */
+.page__content {
+  background-color: #000 !important;
+  color: #f1f1f1 !important;
+}
