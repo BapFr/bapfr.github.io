@@ -1,6 +1,6 @@
 # Baptiste Ferrere – Personal Academic Website
 
-This repository contains the source code for my academic website, built with [Jekyll](https://jekyllrb.com/) and the [academicpages](https://github.com/academicpages/academicpages) template, and hosted via GitHub Pages.
+This repository contains the source code for my academic website, built with [Jekyll](https://jekyllrb.com/) and the [academicpages](https://github.com/academicpages) template, and hosted via GitHub Pages.
 
 🔗 **Live website**: [bapfr.github.io](https://bapfr.github.io/)
 
