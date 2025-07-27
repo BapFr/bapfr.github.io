@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Baptiste Ferrere"
 title_separator          : "-"
 name                     : &name "Baptiste Ferrere"
-description              : &description "PhD Student in Mathematics at Université de Toulouse · CIFRE at EDF R&D"
+description              : &description "PhD student in Mathematics at Université de Toulouse and EDF R&D"
 url                      : "https://bapfr.github.io"
 baseurl                  : ""
 repository               : "BapFr/bapfr.github.io"
@@ -34,12 +34,12 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
