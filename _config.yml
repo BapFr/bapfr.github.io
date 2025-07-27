@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Baptiste Ferrere"
-title_separator          : "-"
+title                    : # "Baptiste Ferrere"
+title_separator          : # "-"
 name                     : &name "Baptiste Ferrere"
 description              : &description "PhD student in Mathematics at Université de Toulouse and EDF R&D"
 url                      : "https://bapfr.github.io"
