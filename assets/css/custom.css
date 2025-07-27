@@ -1,32 +1,73 @@
-/* Fond noir et texte clair */
+
+/* Dark theme - Elegant and minimal */
+
 body {
-  background-color: #000 !important;
-  color: #f1f1f1 !important;
+  background-color: #000000 !important;
+  color: #f2f2f2 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
 }
 
-/* Lien par défaut */
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+}
+
+/* Links */
 a {
   color: #4da6ff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #66ccff;
+  text-decoration: underline;
 }
 
 /* Sidebar */
 .sidebar {
-  background-color: #111 !important;
-  color: #fff !important;
+  background-color: #0a0a0a !important;
+  color: #ffffff !important;
 }
 
-.sidebar a {
-  color: #4da6ff;
-}
-
-.sidebar .author__avatar,
+.sidebar a,
 .sidebar .author__name,
 .sidebar .author__bio {
-  color: #fff !important;
+  color: #ffffff !important;
 }
 
-/* Zones principales */
+.sidebar a:hover {
+  color: #66ccff !important;
+}
+
+/* Page content */
 .page__content {
-  background-color: #000 !important;
-  color: #f1f1f1 !important;
+  background-color: #000000 !important;
+  color: #f2f2f2 !important;
+}
+
+/* Code blocks */
+.highlight, pre {
+  background: #1a1a1a !important;
+  color: #e6e6e6;
+}
+
+/* Tables */
+table {
+  background-color: #000;
+  color: #fff;
+}
+
+th, td {
+  border-color: #333 !important;
+}
+
+/* Footer (if used) */
+.page__footer {
+  background-color: #0a0a0a;
+  color: #999;
+}
+
+/* Button hover and nav links */
+.nav__items a:hover {
+  background-color: #111111;
 }
