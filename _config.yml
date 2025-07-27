@@ -251,6 +251,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      custom_css: "/assets/css/custom.css"
   # _teaching
   - scope:
       path: ""
