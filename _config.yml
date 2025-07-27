@@ -9,13 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Baptiste Ferrere"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Baptiste Ferrere"
+description              : &description "PhD Student in Mathematics at Université de Toulouse · CIFRE at EDF R&D"
+url                      : "https://bapfr.github.io"
+baseurl                  : ""
+repository               : "BapFr/bapfr.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Baptiste Ferrere"
+  pronouns         : "he/him"
+  bio              : "PhD student in Mathematics at Université de Toulouse and EDF R&D"
+  location         : "Paris, France"
+  employer         : "EDF"
+  uri              : "https://bapfr.github.io"
+  email            : "baptiste.ferrere@edf.fr"
 
   # Academic websites
   academia         : # URL
@@ -46,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "BapFr"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -61,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : Baptiste Ferrere
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
