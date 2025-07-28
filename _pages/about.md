@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Baptiste Ferrere"
+title: "Personal Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from:
