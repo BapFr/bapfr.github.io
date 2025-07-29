@@ -9,48 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
-**Université de Toulouse**  
-*Ph.D. in Applied Mathematics*  
-*Toulouse, France – 2024–2027*  
-Uncertainty Quantification, Sensitivity Analysis, Explainability in ML  
-Advisors: Fabrice Gamboa, Jean-Michel Loubes, Nicolas Bousquet, Joseph Muré
 
-**Institut Polytechnique de Paris**  
-*M.Sc. in Statistical Learning*  
-*Palaiseau, France – 2023–2024*  
-Major in Statistics, Learning Theory and Concentration Inequalities
+**Université de Toulouse**, Toulouse, France  
+*Ph.D. in Applied Mathematics* (2024–2027)  
+CIFRE Ph.D. with EDF R&D — Focus on Uncertainty Quantification, Sensitivity Analysis, Explainability in ML  
+**Advisors**: Fabrice Gamboa, Jean-Michel Loubes, Nicolas Bousquet, Joseph Muré
 
-**ENSAE Paris**  
-*Engineering Degree*  
-*Palaiseau, France – 2021–2024*  
-Major in Statistics, Probability and Machine Learning
+**Institut Polytechnique de Paris**, Palaiseau, France  
+*M.Sc. in Statistical Learning* (2023–2024)  
+Major in Statistics, Learning Theory, and Concentration Inequalities
 
-**Lycée Privé Sainte Geneviève**  
-*MPSI-MP – Classes Préparatoires*  
-*Versailles, France – 2019–2021*  
-Preparatory classes for selective higher-education institutions in mathematics and physics
+**ENSAE Paris**, Palaiseau, France  
+*Engineering Degree* (2021–2024)  
+Specialization in Statistics, Probability and Machine Learning
 
-Work Experiences
+**Lycée Privé Sainte-Geneviève**, Versailles, France  
+*Classe Préparatoire MPSI–MP* (2019–2021)  
+Intensive math & physics curriculum for entrance to top French engineering schools
+
+Work Experience
 ======
-**Ph.D. CIFRE Researcher, EDF R&D**  
-*Chatou, France – 2024–2027*  
-Research on generalized Hoeffding decomposition for ML model explainability and uncertainty quantification in an industrial context
 
-**Research Intern, EDF R&D**  
-*Chatou, France – 2024*  
-Work on functional ANOVA for uncertainty quantification of black box models
+**Ph.D. CIFRE Researcher – EDF R&D**, Chatou, France  
+*2024–2027*  
+Research on generalized Hoeffding decomposition for model explainability and uncertainty quantification in real-world industrial ML applications.
 
-**Research Intern, CREST**  
-*Palaiseau, France – 2023*  
-Research on restless linear bandits and exploration strategies with mixing properties, supervised by Azadeh Khaleghi
+**Research Intern – EDF R&D**, Chatou, France  
+*2024*  
+Developed theoretical tools based on functional ANOVA to quantify uncertainty in black-box predictive models.
 
-**Data Scientist Intern, Department of Public Finances**  
-*Évry, France – 2022*  
-Analyzed public spending by sector, produced forecasts, and positioned the department’s situation at the national scale
+**Research Intern – CREST / ENSAE**, Palaiseau, France  
+*2023*  
+Worked on exploration strategies for restless bandits with theoretical guarantees under mixing assumptions (supervised by Azadeh Khaleghi).
 
-Languages and Skills
+**Data Science Intern – Department of Public Finances**, Évry, France  
+*2022*  
+Analyzed national public spending data, built forecasting models by sector, and contributed to macro-level budget reporting.
+
+Skills
 ======
+
 **Languages**: French (native), English (C1)  
-**Programming**: Python, \LaTeX
+**Programming**: Python, LaTeX  
+**Tools**: Linux, Jupyter, Git
+
+
