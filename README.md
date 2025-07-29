@@ -12,13 +12,13 @@ I am a PhD student in Mathematics at Université de Toulouse, working in collabo
 
 The site includes:
 - An overview of my research and academic background
-- A CV (soon available)
-- Teaching activities (planned)
-- Future publications and talks
+- A CV
+- Teaching activities (coming soon)
+- Future publications and talks (coming soon)
 
 ## Contact
 
-- Email: [baptiste.ferrere@edf.fr](mailto:baptiste.ferrere@edf.fr)  
+- Email: [baptiste.ferrere@edf.fr](mailto:baptiste706@gmail.com)  
 - GitHub: [@BapFr](https://github.com/BapFr)  
 - Website: [bapfr.github.io](https://bapfr.github.io/)
 - LinkedIn: [Baptiste Ferrere](https://www.linkedin.com/in/baptisteferrere/)
