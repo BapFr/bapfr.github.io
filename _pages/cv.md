@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests
-======
-My research focuses on uncertainty quantification and explainability in ML, with a particular interest in developing theoretical tools to better understand complex and deep models.
-
 Education
 ======
 **Université de Toulouse**  
