@@ -18,4 +18,4 @@ Before starting my PhD, I completed a 6-month research internship at EDF R&D, wh
 
 ## Research Interests
 
-My research lies at the intersection of statistics, probability, machine learning and linear algebra, with a particular focus on uncertainty quantification, sensitivity analysis and explainability of machine learning models.
+My research focuses on uncertainty quantification and explainability in ML, with a particular interest in developing theoretical tools to better understand complex and deep models.
