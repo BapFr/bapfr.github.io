@@ -18,7 +18,8 @@ The site includes:
 
 ## Contact
 
-- Email: [baptiste.ferrere@edf.fr](mailto:baptiste706@gmail.com)  
-- GitHub: [@BapFr](https://github.com/BapFr)  
+- Email : [baptiste706@gmail.com](mailto:baptiste706@gmail.com)
+- Email (EDF): [baptiste.ferrere@edf.fr](mailto:baptiste.ferrere@edf.fr)
 - Website: [bapfr.github.io](https://bapfr.github.io/)
+- GitHub: [@BapFr](https://github.com/BapFr)  
 - LinkedIn: [Baptiste Ferrere](https://www.linkedin.com/in/baptisteferrere/)
