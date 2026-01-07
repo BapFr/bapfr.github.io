@@ -23,7 +23,7 @@ repository               : "BapFr/bapfr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "baptiste_avatar.jpg"
+  avatar           : "pdp_bap.jpeg"
   name             : "Baptiste Ferrere"
   pronouns         : "he/him"
   bio              : "PhD student in Mathematics at Université de Toulouse and EDF R&D"
