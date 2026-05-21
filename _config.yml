@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Baptiste Ferrere"
 title_separator          : "-"
 name                     : &name "Baptiste Ferrere"
-description              : &description "PhD student in Mathematics at Université de Toulouse and EDF R&D"
+description              : &description "PhD student in Applied Mathematics at Université de Toulouse and EDF R&D"
 url                      : "https://bapfr.github.io"
 baseurl                  : ""
 repository               : "BapFr/bapfr.github.io"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=mAOpoFMAAAAJ&hl"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
