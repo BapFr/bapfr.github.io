@@ -23,7 +23,7 @@ I also hold an [M.Sc. in Statistical Learning](https://www.ip-paris.fr/education
 ## News
 
 - <span style="color: gray;">(05/2026)</span> Our preprint, _Generalized Functional ANOVA in Closed-Form: A Unified View of Additive Explanations_ is now available on [arXiv](https://arxiv.org/pdf/2605.18422)!
-- <span style="color: gray;">(04/2026)</span> Our paper, _Exact Functional ANOVA Decomposition for Categorical Inputs Models_ has been accepted to [ICML 2026](https://icml.cc/virtual/2026/papers.html) as a spotlight paper (top 2%)!
+- <span style="color: gray;">(04/2026)</span> Our paper, _Exact Functional ANOVA Decomposition for Categorical Inputs Models_ has been accepted to [ICML 2026](https://icml.cc/virtual/2026/papers.html) as an oral presentation!
 - <span style="color: gray;">(03/2026)</span> Our preprint, _Exact Functional ANOVA Decomposition for Categorical Inputs Models_ is now available on [arXiv](https://arxiv.org/pdf/2603.02673)!
 - <span style="color: gray;">(10/2025)</span> Our preprint, _Fourier Analysis on the Boolean Hypercube via Hoeffding Functional Decomposition_ is now available on [arXiv](https://arxiv.org/pdf/2510.07088)!
 
