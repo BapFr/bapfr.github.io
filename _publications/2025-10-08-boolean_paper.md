@@ -1,5 +1,9 @@
 ---
 title: "Fourier Analysis on the Boolean Hypercube via Hoeffding Functional Decomposition"
+layout: research-paper
+authors: "Baptiste Ferrere, Nicolas Bousquet, Fabrice Gamboa, Jean-Michel Loubes, Joseph Muré"
+summary: "Extending Fourier analysis beyond the uniform Boolean hypercube to account for arbitrary input distributions."
+arxivurl: 'https://arxiv.org/abs/2510.07088'
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-08-boolean_paper

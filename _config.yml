@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "dark"
 title                    : "Baptiste Ferrere"
 title_separator          : "-"
 name                     : &name "Baptiste Ferrere"
-description              : &description "PhD student in Applied Mathematics at Université de Toulouse and EDF R&D"
+description              : &description "Baptiste Ferrere — PhD student in Applied Mathematics at Université de Toulouse and EDF R&D. Functional decompositions, statistical learning and explainable AI."
 url                      : "https://bapfr.github.io"
 baseurl                  : ""
 repository               : "BapFr/bapfr.github.io"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : "https://scholar.google.com/citations?user=mAOpoFMAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=mAOpoFMAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
@@ -162,6 +162,25 @@ include:
   - _pages
   - files
 exclude:
+  # Preserve the AcademicPages examples in source, but do not publish them.
+  - _posts
+  - _portfolio
+  - _talks
+  - _teaching
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - markdown_generator
+  - talkmap
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

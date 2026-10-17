@@ -1,0 +1,20 @@
+<aside class="profile" aria-label="Profile and contact">
+  <div class="profile-inner">
+    <a class="portrait-link" href="{{ '/' | relative_url }}" aria-label="About Baptiste Ferrere">
+      <img class="portrait" src="{{ '/images/pdp_bap.jpeg' | relative_url }}" width="216" height="224" alt="Baptiste Ferrere" fetchpriority="high">
+    </a>
+    <div class="profile-info">
+      <p class="profile-role">Ph.D. student<br><span>Applied Mathematics</span></p>
+      <p class="profile-affiliations"><a href="https://www.univ-tlse3.fr/">Université de Toulouse</a><span class="affiliation-separator" aria-hidden="true"> · </span><br><a href="https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development">EDF R&amp;D</a></p>
+      <p class="profile-location">{% include academic-icon.html name="location" %}Paris, France</p>
+      <a class="cv-link" href="{{ '/files/cv_baptiste.pdf' | relative_url }}">{% include academic-icon.html name="file" %}Curriculum vitæ<span class="file-label">PDF ↗</span></a>
+      <ul class="profile-links">
+        <li><a href="mailto:{{ site.author.email }}">{% include academic-icon.html name="mail" %}Email<span aria-hidden="true">↗</span></a></li>
+        <li><a href="{{ site.author.googlescholar }}">{% include academic-icon.html name="scholar" %}Google Scholar<span aria-hidden="true">↗</span></a></li>
+        <li><a href="https://github.com/{{ site.author.github }}">{% include academic-icon.html name="github" %}GitHub<span aria-hidden="true">↗</span></a></li>
+        <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">{% include academic-icon.html name="linkedin" %}LinkedIn<span aria-hidden="true">↗</span></a></li>
+      </ul>
+      <p class="profile-note">Functional decompositions.<br>Statistical learning.<br>Interpretable models.</p>
+    </div>
+  </div>
+</aside>

@@ -1,16 +1,16 @@
 ---
-layout: archive
-title: "Talks and presentations"
+layout: academic
+title: "Talks & scientific events"
 permalink: /talks/
-author_profile: true
+kicker: Scientific exchange
+intro: "Conferences, research meetings and scientific events."
 ---
-
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% assign event_years = site.data.academic.events | group_by: 'year' %}
+{% for year in event_years %}
+<section class="publication-group" aria-labelledby="events-{{ year.name }}">
+  <h2 class="publication-year" id="events-{{ year.name }}">{{ year.name }}</h2>
+  <div class="timeline">
+    {% for event in year.items %}<article class="timeline-item"><time class="timeline-date" datetime="{{ event.date }}">{{ event.month }} {{ event.year }}</time><div><h3>{{ event.name }}</h3><p class="event-location">{{ event.location }}</p></div></article>{% endfor %}
+  </div>
+</section>
 {% endfor %}
