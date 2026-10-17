@@ -4,10 +4,13 @@ layout: research-paper
 authors: "Baptiste Ferrere, Nicolas Bousquet, Fabrice Gamboa, Jean-Michel Loubes, Joseph Muré"
 summary: "A closed-form functional ANOVA for categorical models, including dependent features and non-rectangular supports."
 selected: true
-selected_order: 1
+selected_order: 2
 highlight: "Oral presentation"
 arxivurl: 'https://arxiv.org/abs/2603.02673'
 codeurl: 'https://github.com/BapFr/Exact-Functional-ANOVA-Decomposition-for-Categorical-Inputs-Models'
+oralurl: 'https://icml.cc/virtual/2026/oral/71107'
+slidesurl: 'https://icml.cc/media/icml-2026/Slides/71107_ffAzlBv.pdf'
+posterurl: 'https://icml.cc/media/PosterPDFs/ICML%202026/61430.png?t=1782314260.3022537'
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-04-categorical_paper

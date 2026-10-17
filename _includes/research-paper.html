@@ -8,6 +8,9 @@
     <a href="{{ paper.paperurl }}" aria-label="PDF: {{ paper.title | escape }}">Paper <span aria-hidden="true">↗</span></a>
     <a href="{{ paper.arxivurl }}" aria-label="arXiv: {{ paper.title | escape }}">arXiv <span aria-hidden="true">↗</span></a>
     {% if paper.codeurl %}<a href="{{ paper.codeurl }}" aria-label="Code: {{ paper.title | escape }}">Code <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if paper.oralurl %}<a href="{{ paper.oralurl | escape }}" aria-label="Oral presentation: {{ paper.title | escape }}">Oral <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if paper.slidesurl %}<a href="{{ paper.slidesurl | escape }}" aria-label="Slides: {{ paper.title | escape }}">Slides <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if paper.posterurl %}<a href="{{ paper.posterurl | escape }}" aria-label="Poster: {{ paper.title | escape }}">Poster <span aria-hidden="true">↗</span></a>{% endif %}
     {% unless include.compact %}<a href="{{ paper.url | relative_url }}">Abstract <span aria-hidden="true">→</span></a>{% endunless %}
   </div>
 </article>
