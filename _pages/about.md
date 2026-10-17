@@ -10,9 +10,9 @@ redirect_from:
 ---
 
 <header class="home-heading">
-  <p class="eyebrow">Statistical learning theory</p>
+  <p class="eyebrow">Mathematics for Interpretability</p>
   <h1>Baptiste Ferrere<span class="name-dot" aria-hidden="true" style="color: var(--blue)">.</span></h1>
-  <p class="home-subtitle">Nonparametric interaction models.</p>
+  <p class="home-subtitle">Statistical Learning Theory, Nonparametric Interaction Models, Interpretability, XAI, UQ</p>
 </header>
 
 <div class="introduction">
