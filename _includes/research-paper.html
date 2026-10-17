@@ -1,0 +1,13 @@
+{% assign paper = include.paper %}
+<article class="research-paper{% if paper.highlight %} research-paper--highlight{% endif %}">
+  <div class="paper-meta"><span>{{ paper.venue }}</span>{% if paper.highlight %}<span class="paper-distinction">{{ paper.highlight }}</span>{% endif %}<span class="paper-year">{{ paper.date | date: '%Y' }}</span></div>
+  <h3><a href="{{ paper.url | relative_url }}">{{ paper.title }}</a></h3>
+  <p class="paper-authors">{{ paper.authors | replace: 'Baptiste Ferrere', '<strong>Baptiste Ferrere</strong>' }}</p>
+  <p class="paper-summary">{{ paper.summary | default: paper.excerpt }}</p>
+  <div class="paper-links">
+    <a href="{{ paper.paperurl }}" aria-label="PDF: {{ paper.title | escape }}">Paper <span aria-hidden="true">↗</span></a>
+    <a href="{{ paper.arxivurl }}" aria-label="arXiv: {{ paper.title | escape }}">arXiv <span aria-hidden="true">↗</span></a>
+    {% if paper.codeurl %}<a href="{{ paper.codeurl }}" aria-label="Code: {{ paper.title | escape }}">Code <span aria-hidden="true">↗</span></a>{% endif %}
+    {% unless include.compact %}<a href="{{ paper.url | relative_url }}">Abstract <span aria-hidden="true">→</span></a>{% endunless %}
+  </div>
+</article>

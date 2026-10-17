@@ -1,0 +1,33 @@
+# Professional information from the CV provided in October 2026.
+# These entries list scientific events; they do not imply an invited talk.
+events:
+  - name: "PILearnWater ANITI Chair Meeting"
+    date: "2026-07"
+    month: Jul
+    year: "2026"
+    location: "Toulouse, France"
+  - name: "MASCOT-NUM 2026 — Annual RT-UQ Meeting"
+    date: "2026-04"
+    month: Apr
+    year: "2026"
+    location: "ENSAI, Rennes (Bruz), France"
+  - name: "SIAM Conference on Uncertainty Quantification"
+    date: "2026-03"
+    month: Mar
+    year: "2026"
+    location: "Minneapolis, MN, USA"
+  - name: "ANITI Days 2026"
+    date: "2026-02"
+    month: Feb
+    year: "2026"
+    location: "Toulouse, France"
+  - name: "56th Journées de Statistique de la SFdS (JdS 2025)"
+    date: "2025-06"
+    month: Jun
+    year: "2025"
+    location: "Marseille, France"
+  - name: "MASCOT-NUM 2025 — Annual RT-UQ Meeting"
+    date: "2025-04"
+    month: Apr
+    year: "2025"
+    location: "Grenoble, France"

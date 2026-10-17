@@ -1,16 +1,16 @@
 ---
-layout: archive
+layout: academic
 title: "Publications"
 permalink: /publications/
-author_profile: true
+kicker: Research
+intro: "Functional decompositions, interaction effects and the mathematics of interpretable machine learning."
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+<p class="page-intro">You can also find my work on <a href="{{ site.author.googlescholar }}">Google Scholar ↗</a>.</p>
+{% assign papers = site.publications | sort: 'date' | reverse %}
+{% assign years = papers | group_by_exp: 'paper', "paper.date | date: '%Y'" %}
+{% for year in years %}
+<section class="publication-group" aria-labelledby="year-{{ year.name }}">
+  <h2 class="publication-year" id="year-{{ year.name }}">{{ year.name }}</h2>
+  {% for paper in year.items %}{% include research-paper.html paper=paper %}{% endfor %}
+</section>
 {% endfor %}
