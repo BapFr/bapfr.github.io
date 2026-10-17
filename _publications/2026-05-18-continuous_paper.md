@@ -4,7 +4,7 @@ layout: research-paper
 authors: "Baptiste Ferrere, Nicolas Bousquet, Fabrice Gamboa, Jean-Michel Loubes"
 summary: "An explicit, distribution-adapted basis for generalized functional ANOVA with dependent continuous inputs."
 selected: true
-selected_order: 2
+selected_order: 1
 arxivurl: 'https://arxiv.org/abs/2605.18422'
 last_modified_at: 2026-09-26
 collection: publications

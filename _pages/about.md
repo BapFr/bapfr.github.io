@@ -3,21 +3,24 @@ layout: academic
 permalink: /
 title: "Baptiste Ferrere"
 home: true
-description: "PhD student in Applied Mathematics at Université de Toulouse and EDF R&D. I study functional decompositions and statistical learning for interpretable machine learning."
+description: "PhD student in Applied Mathematics at Université de Toulouse and EDF R&D. Statistical learning theory and nonparametric interaction models for XAI, uncertainty quantification and interpretability."
 redirect_from:
   - /about/
   - /about.html
 ---
 
 <header class="home-heading">
-  <p class="eyebrow">Applied mathematics &amp; explainable AI</p>
+  <p class="eyebrow">Statistical learning theory</p>
   <h1>Baptiste Ferrere<span class="name-dot" aria-hidden="true" style="color: var(--blue)">.</span></h1>
-  <p class="home-subtitle">Understanding models through mathematics.</p>
+  <p class="home-subtitle">Nonparametric interaction models.</p>
 </header>
 
 <div class="introduction">
   <p>I am a Ph.D. student in Applied Mathematics at <a href="https://www.univ-tlse3.fr/">Université de Toulouse</a>, in collaboration with <a href="https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development">EDF R&amp;D</a> through a CIFRE partnership.</p>
-  <p>I develop mathematically grounded methods for <strong>interpretable machine learning</strong>. My research combines functional decompositions, Hilbert-space methods and nonparametric statistics to understand <strong>interaction effects under dependent inputs</strong>.</p>
+  <p>My research lies at the intersection of <strong>statistical learning theory</strong> and <strong>nonparametric interaction models</strong>, motivated by questions in explainable AI, uncertainty quantification and model interpretability.</p>
+  <p>I am deeply interested in the theoretical and mathematical foundations of machine learning. I particularly enjoy developing methods grounded in statistical learning theory, functional decompositions and functional analysis, and using them to address concrete problems in explainable AI.</p>
+  <p>I study how to represent and estimate individual effects and interactions between variables, particularly when the inputs are dependent and their distribution is unknown.</p>
+  <p>My recent contributions include explicit representations for generalized functional ANOVA and minimax guarantees for additive regression under unknown dependent designs.</p>
 </div>
 
 <dl class="advisors">
@@ -28,11 +31,12 @@ redirect_from:
 <section class="content-section" aria-labelledby="news-heading">
   <div class="section-heading"><h2 id="news-heading"><span class="section-number" aria-hidden="true">01</span>News</h2></div>
   <ul class="news-list">
+    <li><time datetime="2026-10-03">Oct 2026</time><p>Our preprint <a href="https://arxiv.org/abs/2609.39212">Minimax Additive Regression under Unknown Dependent Designs</a> has been updated; the latest version is dated 3 October.</p></li>
     <li><time datetime="2026-09">Sep 2026</time><p>Updated preprint: <a href="https://arxiv.org/abs/2605.18422">Generalized Functional ANOVA: A Complete Theoretical Framework</a>.</p></li>
-    <li><time datetime="2026-05">May 2026</time><p>Our work on generalized functional ANOVA for continuous inputs is available on <a href="https://arxiv.org/abs/2605.18422v1">arXiv</a>.</p></li>
     <li><time datetime="2026-04">Apr 2026</time><p>Our paper on functional ANOVA for categorical inputs was accepted at <strong>ICML 2026</strong> for an <span style="color: var(--blue)">oral presentation</span>.</p></li>
   </ul>
   <details class="news-archive"><summary>Earlier news</summary><ul class="news-list">
+    <li><time datetime="2026-05">May 2026</time><p>Our work on generalized functional ANOVA for continuous inputs is available on <a href="https://arxiv.org/abs/2605.18422">arXiv</a>.</p></li>
     <li><time datetime="2026-03">Mar 2026</time><p>New preprint: <a href="https://arxiv.org/abs/2603.02673">Exact Functional ANOVA Decomposition for Categorical Inputs Models</a>.</p></li>
     <li><time datetime="2025-10">Oct 2025</time><p>Our work on <a href="https://arxiv.org/abs/2510.07088">Fourier analysis on the Boolean hypercube</a> is available on arXiv.</p></li>
   </ul></details>
@@ -47,9 +51,9 @@ redirect_from:
 <section class="content-section" aria-labelledby="research-heading">
   <div class="section-heading"><h2 id="research-heading"><span class="section-number" aria-hidden="true">03</span>Research directions</h2></div>
   <div class="research-topics">
-    <article><span class="topic-symbol" aria-hidden="true">ƒ</span><h3>Functional decompositions</h3><p>Separating main effects and interactions through generalized ANOVA and Hilbert-space methods.</p></article>
-    <article><span class="topic-symbol" aria-hidden="true">ℒ</span><h3>Statistical learning</h3><p>Nonparametric interaction models and minimax rates with learned dependence structure.</p></article>
-    <article><span class="topic-symbol" aria-hidden="true">φ</span><h3>Model explanations</h3><p>Dependence-aware additive explanations and interaction effects in transformer architectures.</p></article>
+    <article><span class="topic-symbol" aria-hidden="true">ℒ</span><h3>Statistical learning theory</h3><p>Statistical guarantees for nonparametric models, including minimax rates for additive regression under unknown dependent designs.</p></article>
+    <article><span class="topic-symbol" aria-hidden="true">ƒ</span><h3>Nonparametric interaction models</h3><p>Representation and estimation of main effects and higher-order interactions using functional decompositions and generalized ANOVA.</p></article>
+    <article><span class="topic-symbol" aria-hidden="true">φ</span><h3>Interpretability &amp; UQ</h3><p>Functional decompositions for model interpretability and uncertainty quantification; ongoing work on interactions in transformer architectures.</p></article>
   </div>
 </section>
 
