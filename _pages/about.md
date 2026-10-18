@@ -25,20 +25,20 @@ redirect_from:
 
 <dl class="advisors">
   <div><dt>Academic supervisors</dt><dd><a href="https://www.math.univ-toulouse.fr/~gamboa/">Fabrice Gamboa</a><br><a href="https://perso.math.univ-toulouse.fr/loubes/">Jean-Michel Loubes</a></dd></div>
-  <div><dt>Industrial supervisors · EDF</dt><dd><a href="https://perso.lpsm.paris/~bousquet/">Nicolas Bousquet</a><br><a href="https://josephmure.wordpress.com/">Joseph Muré</a></dd></div>
+  <div><dt>Industrial supervisors · EDF</dt><dd><a href="https://bousquet-n.github.io/research/">Nicolas Bousquet</a><br><a href="https://josephmure.wordpress.com/">Joseph Muré</a></dd></div>
 </dl>
 
 <section class="content-section" aria-labelledby="news-heading">
   <div class="section-heading"><h2 id="news-heading"><span class="section-number" aria-hidden="true">01</span>News</h2></div>
   <ul class="news-list">
-    <li><time datetime="2026-10-03">Oct 2026</time><p>Our preprint <a href="https://arxiv.org/abs/2609.39212">Minimax Additive Regression under Unknown Dependent Designs</a> has been updated; the latest version is dated 3 October.</p></li>
-    <li><time datetime="2026-09">Sep 2026</time><p>Updated preprint: <a href="https://arxiv.org/abs/2605.18422">Generalized Functional ANOVA: A Complete Theoretical Framework</a>.</p></li>
+    <li><time datetime="2026-10">Oct 2026</time><p>I am visiting <a href="https://uqam.ca/">Université du Québec à Montréal (UQAM)</a> throughout October 2026, working with <a href="https://freakonometrics.github.io/">Arthur Charpentier</a> and <a href="https://marouaneilidrissi.com/fr/index.html">Marouane Il Idrissi</a> on interpretability and fairness.</p></li>
+    <li><time datetime="2026-10-03">Oct 2026</time><p>Our new preprint <a href="https://arxiv.org/abs/2609.39212">Minimax Additive Regression under Unknown Dependent Designs</a> is available on arXiv!</p></li>
     <li><time datetime="2026-04">Apr 2026</time><p>Our paper on functional ANOVA for categorical inputs was accepted at <strong>ICML 2026</strong> for an <span style="color: var(--blue)">oral presentation</span>.</p></li>
   </ul>
   <details class="news-archive"><summary>Earlier news</summary><ul class="news-list">
-    <li><time datetime="2026-05">May 2026</time><p>Our work on generalized functional ANOVA for continuous inputs is available on <a href="https://arxiv.org/abs/2605.18422">arXiv</a>.</p></li>
-    <li><time datetime="2026-03">Mar 2026</time><p>New preprint: <a href="https://arxiv.org/abs/2603.02673">Exact Functional ANOVA Decomposition for Categorical Inputs Models</a>.</p></li>
-    <li><time datetime="2025-10">Oct 2025</time><p>Our work on <a href="https://arxiv.org/abs/2510.07088">Fourier analysis on the Boolean hypercube</a> is available on arXiv.</p></li>
+    <li><time datetime="2026-05">May 2026</time><p>Our new preprint <a href="https://arxiv.org/abs/2605.18422">Generalized Functional ANOVA: A Complete Theoretical Framework</a> is available on arXiv!</p></li>
+    <li><time datetime="2026-03">Mar 2026</time><p>Our new preprint <a href="https://arxiv.org/abs/2603.02673">Exact Functional ANOVA Decomposition for Categorical Inputs Models</a> is available on arXiv!</p></li>
+    <li><time datetime="2025-10">Oct 2025</time><p>Our new preprint <a href="https://arxiv.org/abs/2510.07088">Fourier Analysis on the Boolean Hypercube via Hoeffding Functional Decomposition</a> is available on arXiv!</p></li>
   </ul></details>
 </section>
 
