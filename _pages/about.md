@@ -24,7 +24,7 @@ redirect_from:
 </div>
 
 <dl class="advisors">
-  <div><dt>Academic supervisors</dt><dd><a href="https://www.math.univ-toulouse.fr/~gamboa/">Fabrice Gamboa</a><br><a href="https://perso.math.univ-toulouse.fr/loubes/">Jean-Michel Loubes</a></dd></div>
+  <div><dt>Academic supervisors</dt><dd><a href="https://www.math.univ-toulouse.fr/~gamboa/">Fabrice Gamboa</a><br><a href="https://jmltoulouse.github.io/jmloubes/">Jean-Michel Loubes</a></dd></div>
   <div><dt>Industrial supervisors · EDF</dt><dd><a href="https://bousquet-n.github.io/research/">Nicolas Bousquet</a><br><a href="https://josephmure.wordpress.com/">Joseph Muré</a></dd></div>
 </dl>
 
