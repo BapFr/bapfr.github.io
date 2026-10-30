@@ -12,12 +12,12 @@ redirect_from:
 <header class="home-heading">
   <p class="eyebrow">Mathematics for Interpretability</p>
   <h1>Baptiste Ferrere<span class="name-dot" aria-hidden="true" style="color: var(--blue)">.</span></h1>
-  <p class="home-subtitle">Statistical Learning Theory, Nonparametric Interaction Models, Interpretability, XAI, UQ</p>
+  <p class="home-subtitle">Statistics, Machine Learning, Interpretability</p>
 </header>
 
 <div class="introduction">
   <p>I am a Ph.D. student in Applied Mathematics at <a href="https://www.univ-tlse3.fr/">Université de Toulouse</a>, in collaboration with <a href="https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development">EDF R&amp;D</a> through a CIFRE partnership.</p>
-  <p>My research lies at the intersection of <strong>statistical learning theory</strong> and <strong>nonparametric interaction models</strong>, motivated by questions in explainable AI, uncertainty quantification and model interpretability.</p>
+  <p>My research lies at the intersection of <strong>nonparametric interaction models</strong>, <strong>statistical learning theory</strong> and <strong>interpretability</strong>.</p>
   <p>I am deeply interested in the theoretical and mathematical foundations of machine learning. I particularly enjoy developing methods grounded in statistical learning theory, functional decompositions and functional analysis, and using them to address concrete problems in explainable AI.</p>
   <p>I study how to represent and estimate individual effects and interactions between variables, particularly when the inputs are dependent and their distribution is unknown.</p>
   <p>My recent contributions include explicit representations for generalized functional ANOVA and minimax guarantees for additive regression under unknown dependent designs.</p>
