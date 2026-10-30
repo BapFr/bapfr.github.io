@@ -6,7 +6,6 @@ summary: "A closed-form functional ANOVA for categorical models, including depen
 selected: true
 selected_order: 2
 highlight: "Oral presentation"
-arxivurl: 'https://arxiv.org/abs/2603.02673'
 codeurl: 'https://github.com/BapFr/Exact-Functional-ANOVA-Decomposition-for-Categorical-Inputs-Models'
 oralurl: 'https://icml.cc/virtual/2026/oral/71107'
 slidesurl: 'https://icml.cc/media/icml-2026/Slides/71107_ffAzlBv.pdf'
@@ -17,7 +16,7 @@ permalink: /publication/2026-03-04-categorical_paper
 excerpt: 'We introduce a closed-form formulation for the Generalized Functional ANOVA on categorical domains.'
 date: 2026-03-04
 venue: 'ICML 2026'
-paperurl: 'https://arxiv.org/pdf/2603.02673'
+paperurl: 'https://proceedings.mlr.press/v306/ferrere26a.html'
 ---
 
 ## Abstract

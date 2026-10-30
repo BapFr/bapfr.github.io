@@ -8,7 +8,7 @@ layout: academic
   <p class="paper-authors">{{ page.authors | replace: 'Baptiste Ferrere', '<strong>Baptiste Ferrere</strong>' }}</p>
   <div class="paper-links">
     <a href="{{ page.paperurl }}">Read the paper ↗</a>
-    <a href="{{ page.arxivurl }}">arXiv ↗</a>
+    {% if page.arxivurl %}<a href="{{ page.arxivurl }}">arXiv ↗</a>{% endif %}
     {% if page.codeurl %}<a href="{{ page.codeurl }}">Code ↗</a>{% endif %}
     {% if page.oralurl %}<a href="{{ page.oralurl | escape }}">Oral ↗</a>{% endif %}
     {% if page.slidesurl %}<a href="{{ page.slidesurl | escape }}">Slides ↗</a>{% endif %}

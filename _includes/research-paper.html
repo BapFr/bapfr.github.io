@@ -5,8 +5,8 @@
   <p class="paper-authors">{{ paper.authors | replace: 'Baptiste Ferrere', '<strong>Baptiste Ferrere</strong>' }}</p>
   <p class="paper-summary">{{ paper.summary | default: paper.excerpt }}</p>
   <div class="paper-links">
-    <a href="{{ paper.paperurl }}" aria-label="PDF: {{ paper.title | escape }}">Paper <span aria-hidden="true">↗</span></a>
-    <a href="{{ paper.arxivurl }}" aria-label="arXiv: {{ paper.title | escape }}">arXiv <span aria-hidden="true">↗</span></a>
+    <a href="{{ paper.paperurl }}" aria-label="Paper: {{ paper.title | escape }}">Paper <span aria-hidden="true">↗</span></a>
+    {% if paper.arxivurl %}<a href="{{ paper.arxivurl }}" aria-label="arXiv: {{ paper.title | escape }}">arXiv <span aria-hidden="true">↗</span></a>{% endif %}
     {% if paper.codeurl %}<a href="{{ paper.codeurl }}" aria-label="Code: {{ paper.title | escape }}">Code <span aria-hidden="true">↗</span></a>{% endif %}
     {% if paper.oralurl %}<a href="{{ paper.oralurl | escape }}" aria-label="Oral presentation: {{ paper.title | escape }}">Oral <span aria-hidden="true">↗</span></a>{% endif %}
     {% if paper.slidesurl %}<a href="{{ paper.slidesurl | escape }}" aria-label="Slides: {{ paper.title | escape }}">Slides <span aria-hidden="true">↗</span></a>{% endif %}
